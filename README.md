@@ -2,7 +2,7 @@
 这是TC_tracker的python复现版本，原文地址:[TC_tracker](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf)
 
 <div align="center">
-  <img src="TC_TRACKER/tracking_video/demo.gif" width="400px" />
+  <img src="TC_TRACKER/demo.gif" width="400px" />
   <p>Example outputs.</p>
 </div>
 
